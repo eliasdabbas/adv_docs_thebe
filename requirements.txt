@@ -1,4 +1,4 @@
-advertools
+advertools>=0.13.0
 plotly
 tabulate
 pyperclip
