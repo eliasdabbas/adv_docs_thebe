@@ -1,4 +1,4 @@
-advertools>=0.15.0
+advertools>=0.17.0
 plotly
 ua_parser
 
